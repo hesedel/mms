@@ -1,0 +1,19 @@
+.issues {
+  position: relative;
+}
+
+.pagination {
+  margin-top: 16px;
+}
+
+.loading {
+  align-items: center;
+  background-color: rgba(255, 255, 255, .75);
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
